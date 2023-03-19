@@ -1,4 +1,4 @@
-# Menu Project
+# Tabs and Buttons Project
 
 This was created by using React. It fetches the data from an API and displays it.
 
